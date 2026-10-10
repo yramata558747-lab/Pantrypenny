@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "420432876115",
+    "project_id": "pantrypenny",
+    "storage_bucket": "pantrypenny.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:420432876115:android:20761d611aacc520baeca6",
+        "android_client_info": {
+          "package_name": "com.example.pantrypenny"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8L2_-zkfmIYiiXc-vBOr0v2fbfYcQVzI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
